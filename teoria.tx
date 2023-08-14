@@ -1,0 +1,54 @@
+python es multi paradicma
+tipado dinamico
+modo intractivo, 
+
+se usa en desarrollo web, IA, ciencia de datos,SDN (Software defined networks), SDR (Software defined radio), automatizacion
+
+
+Lenguajes compilados 
+Lenguajes compulados Rust, Java, c o c++
+
+Lenguajes Interpretados
+ejecuta las lineas en tiempo real
+Son: Phhyton, Php, Lua
+se hace las pruebas más rapidas 
+
+Entorno de desarrollo 
+
+programacion modular
+
+
+list compreheusion
+te filtra todos los items que inicien con c
+lista_compras=["papa","tomate","cebolla","carne"]
+filtrada=[item for item in lista_compras if item.stratswith("c")]
+
+para una lista de 1's 
+unos = [1 for i in range(10)]
+
+unos y ceros 
+uc = [i % 2 for i in range(10)]
+
+list compreheusion hay para diccionarios 
+un dic compreheusion
+
+
+Programacion procedural 
+    se crean dependencias 
+    es codigo spaguetti
+    para solucionarlo usamos  POO
+
+Programacion Orientada a Objetos 
+    separamos datos y comportamiento
+    sustantivos y verbo
+
+
+Arcade
+    es una libreria
+    
+
+    # traslacion que ya no usamos
+    # def translate(self,vertice,dx,dy):
+    #    new_vertice = [(v[0]+dx, v[1]+dy) for v in vertice]
+    #    return new_vertice
+    
