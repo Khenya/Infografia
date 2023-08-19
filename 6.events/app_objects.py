@@ -157,8 +157,6 @@ class Enemy:
             if self.distance_to(bullet) < self.r:
                 self.is_alive = False
                 self.puntos_ganados = 5
-            if self.detect_collision(bullet) < tank.radio:
-                return arcade.draw_text('perdiste', 200,300,arcade.color.RED_BROWN)
         return self.puntos_ganados 
                 
     
